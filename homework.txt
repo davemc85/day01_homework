@@ -1,2 +1,3 @@
 Day 1 homework
-seems to be working
+Seems to be working.
+It is working!
